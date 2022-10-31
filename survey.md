@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Red 
+Favorite food: Rocky mountain oysters
+Favorite musician/band: Periphery
+Favorite movie: Mean girls
+Requested grade in the course: 42
